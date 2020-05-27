@@ -1,0 +1,49 @@
+#base 
+{
+    background-color: burlywood;
+}
+
+#cabeza 
+{
+    background-color: burlywood;
+    height: 20%;
+    text-align: center;
+    line-height: 120px;
+}
+
+#menu 
+{
+    height: 10%;
+    background-color: aliceblue;
+    text-align: center;
+    line-height: 60px;
+}
+
+#columnaiz 
+{
+    height: 50%;
+    background-color: cyan;
+    float: left;
+    width: 50%;
+    text-align: center;
+    line-height: 250px;
+}
+
+#columnade 
+{
+    height: 50%;
+    background-color: darkcyan;
+    float: right;
+    width: 50%;
+    text-align: center;
+    line-height: 250px;
+}
+
+#pie 
+{
+    height: 20%;
+    background-color: chartreuse;
+    clear: both;
+    text-align: center;
+    line-height: 120px;
+}
